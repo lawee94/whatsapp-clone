@@ -1,4 +1,4 @@
-# whatsapp-clone
+# Whatsapp-clone
 A MERN (MongoDB, Express, Reactjs, Nodejs) application
 which clone the fuctionlaity of Whatsapp
 
