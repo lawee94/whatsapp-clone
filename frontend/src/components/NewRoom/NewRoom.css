@@ -1,0 +1,21 @@
+.form {
+    width: 100%;
+    text-align: center;
+    margin: 10px auto;
+    overflow: hidden;
+}
+.form input {
+    padding: 10px;
+    object-fit: contain;
+    width: 90%;
+    margin: auto;
+}
+
+.form button {
+    margin: 30px auto;
+    background-color: #ccc;
+    border: 1px solid rgb(158, 157, 157);
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px;
+}

@@ -1,0 +1,19 @@
+{
+    "name": "whatsapp",
+    "version": "1.0.0",
+    "description": "Whatsapp Clone",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon -r esm ."
+    },
+    "author": "Festac",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "esm": "^3.2.25",
+        "express": "^4.17.1",
+        "mongoose": "^5.10.7",
+        "pusher": "^3.0.1"
+    }
+}
