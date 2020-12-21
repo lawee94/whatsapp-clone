@@ -7,7 +7,7 @@ import Pusher from "pusher-js";
 import axios from "./axios";
 import { useStateValue } from "./components/Logic/StateProvider";
 
-let pusher = new Pusher("d7e92d55708a24d1bb99", {
+let pusher = new Pusher("pusher_key", {
     cluster: "eu",
 });
 
